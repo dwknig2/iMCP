@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Extensions/TimeZone+Extensions.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology.swiftsourceinfo"
+  }
+}

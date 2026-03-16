@@ -1,0 +1,30 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/App/Models/Tool.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Tool.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Tool.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Tool.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Tool.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Tool.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Models/Value.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Value.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Value.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Value.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Value.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Value.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Calendar.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Calendar.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Calendar.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Calendar.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Calendar.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Calendar.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Capture.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Capture.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Capture.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Capture.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Capture.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Capture.swiftdeps"
+  }
+}

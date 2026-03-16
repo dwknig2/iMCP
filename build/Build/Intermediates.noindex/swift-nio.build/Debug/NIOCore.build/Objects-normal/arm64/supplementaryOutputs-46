@@ -1,0 +1,65 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOCoreSendableMetatype.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOCoreSendableMetatype.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOCoreSendableMetatype.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOCoreSendableMetatype.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOCoreSendableMetatype.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOCoreSendableMetatype.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIODecodedAsyncSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIODecodedAsyncSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIODecodedAsyncSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIODecodedAsyncSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIODecodedAsyncSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIODecodedAsyncSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOLoopBound.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOLoopBound.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOLoopBound.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOLoopBound.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOLoopBound.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOLoopBound.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOPooledRecvBufferAllocator.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOPooledRecvBufferAllocator.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOPooledRecvBufferAllocator.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOPooledRecvBufferAllocator.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOPooledRecvBufferAllocator.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOPooledRecvBufferAllocator.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOScheduledCallback.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOScheduledCallback.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOScheduledCallback.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOScheduledCallback.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOScheduledCallback.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOScheduledCallback.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOSendable.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSendable.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSendable.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSendable.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSendable.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSendable.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOSplitLinesMessageDecoder.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSplitLinesMessageDecoder.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSplitLinesMessageDecoder.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSplitLinesMessageDecoder.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSplitLinesMessageDecoder.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOSplitLinesMessageDecoder.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/NIOTransportAccessibleChannelCore.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOTransportAccessibleChannelCore.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOTransportAccessibleChannelCore.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOTransportAccessibleChannelCore.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOTransportAccessibleChannelCore.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/NIOTransportAccessibleChannelCore.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-nio/Sources/NIOCore/RecvByteBufferAllocator.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/RecvByteBufferAllocator.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/RecvByteBufferAllocator.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/RecvByteBufferAllocator.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/RecvByteBufferAllocator.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-nio.build/Debug/NIOCore.build/Objects-normal/arm64/RecvByteBufferAllocator.swiftdeps"
+  }
+}

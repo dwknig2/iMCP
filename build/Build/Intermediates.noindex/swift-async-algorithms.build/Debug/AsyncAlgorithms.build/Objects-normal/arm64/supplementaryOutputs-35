@@ -1,0 +1,51 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Buffer/UnboundedBufferStateMachine.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStateMachine.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStateMachine.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStateMachine.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStateMachine.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Buffer/UnboundedBufferStorage.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStorage.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStorage.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStorage.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStorage.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnboundedBufferStorage.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Channels/AsyncChannel.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncChannel.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncChannel.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncChannel.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncChannel.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncChannel.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Channels/AsyncThrowingChannel.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncThrowingChannel.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncThrowingChannel.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncThrowingChannel.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncThrowingChannel.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncThrowingChannel.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Channels/ChannelStateMachine.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStateMachine.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStateMachine.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStateMachine.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStateMachine.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Channels/ChannelStorage.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStorage.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStorage.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStorage.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStorage.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ChannelStorage.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/CombineLatest/AsyncCombineLatest2Sequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest2Sequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest2Sequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest2Sequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest2Sequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest2Sequence.swiftdeps"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/App/Controllers/ServerController.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServerController.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServerController.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServerController.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServerController.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServerController.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/AVFoundation+Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/AppKit+Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AppKit+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AppKit+Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AppKit+Extensions.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AppKit+Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/AppKit+Extensions.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/Bundle+Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Bundle+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Bundle+Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Bundle+Extensions.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Bundle+Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Bundle+Extensions.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/Contacts+Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Contacts+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Contacts+Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Contacts+Extensions.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Contacts+Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Contacts+Extensions.swiftdeps"
+  }
+}

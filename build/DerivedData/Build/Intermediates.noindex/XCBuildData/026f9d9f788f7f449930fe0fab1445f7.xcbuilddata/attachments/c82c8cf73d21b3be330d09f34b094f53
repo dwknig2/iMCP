@@ -1,0 +1,106 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/MCP-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Error.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Error.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Error.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Error.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/ID.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/ID.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/ID.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/ID.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Lifecycle.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Lifecycle.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Lifecycle.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Lifecycle.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Messages.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Messages.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Messages.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Messages.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transport.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Transport.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Transport.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Transport.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPClientTransport.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/HTTPClientTransport.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/HTTPClientTransport.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/HTTPClientTransport.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transports/NetworkTransport.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/NetworkTransport.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/NetworkTransport.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/NetworkTransport.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transports/StdioTransport.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/StdioTransport.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/StdioTransport.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/StdioTransport.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/UnitInterval.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/UnitInterval.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/UnitInterval.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/UnitInterval.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Utilities/Ping.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Ping.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Ping.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Ping.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Value.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Value.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Value.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Value.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Versioning.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Versioning.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Versioning.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Versioning.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Client/Client.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Client.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Client.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Client.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Client/Sampling.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Sampling.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Sampling.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Sampling.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Extensions/Data+Extensions.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Data+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Data+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Data+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Server/Prompts.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Prompts.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Prompts.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Prompts.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Server/Resources.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Resources.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Resources.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Resources.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Server/Server.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Server.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Server.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Server.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-sdk/Sources/MCP/Server/Tools.swift" : {
+    "index-unit-output-path" : "/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Tools.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Tools.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/mcp-swift-sdk.build/Release/MCP.build/Objects-normal/arm64/Tools.o"
+  }
+}

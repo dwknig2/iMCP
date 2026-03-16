@@ -1,0 +1,4 @@
+module TypedStream {
+header "TypedStream-Swift.h"
+export *
+}

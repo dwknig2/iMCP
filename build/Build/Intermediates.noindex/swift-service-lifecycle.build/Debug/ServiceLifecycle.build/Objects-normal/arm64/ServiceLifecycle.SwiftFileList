@@ -1,0 +1,9 @@
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncCancelOnGracefulShutdownSequence.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncGracefulShutdownSequence.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/CancellationWaiter.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ClosureService.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/GracefulShutdown.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/Service.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroup.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceGroupConfiguration.swift
+/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/ServiceRunnerError.swift

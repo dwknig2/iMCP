@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-nio/Sources/_NIODataStructures/Heap.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-nio.build/Release/_NIODataStructures.build/Objects-normal/arm64/_NIODataStructures.swiftsourceinfo"
+  }
+}

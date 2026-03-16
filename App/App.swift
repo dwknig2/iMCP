@@ -1,9 +1,10 @@
 import SwiftUI
 
-/// Sets activation policy so the menu bar icon is visible (macOS 14/15 can hide it with .accessory).
+/// Sets activation policy so the menu bar icon is visible. .accessory = menu bar only (no Dock); .regular = Dock + menu bar.
 private final class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationDidFinishLaunching(_ notification: Notification) {
-        NSApp.setActivationPolicy(.regular)
+        // Use .accessory for menu-bar-only (status item shows). Use .regular if you want Dock icon too.
+        NSApp.setActivationPolicy(.accessory)
     }
 }
 

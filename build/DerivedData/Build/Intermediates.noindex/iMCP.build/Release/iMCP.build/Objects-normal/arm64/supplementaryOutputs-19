@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/App/Controllers/ServerController.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP.swiftsourceinfo"
+  }
+}

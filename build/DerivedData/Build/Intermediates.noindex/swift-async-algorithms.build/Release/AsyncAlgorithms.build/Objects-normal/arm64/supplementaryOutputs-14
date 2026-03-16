@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncAdjacentPairsSequence.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-async-algorithms.build/Release/AsyncAlgorithms.build/Objects-normal/arm64/AsyncAlgorithms.swiftsourceinfo"
+  }
+}

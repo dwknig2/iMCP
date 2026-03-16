@@ -1,0 +1,23 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/MachPort.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/MachPort.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/MachPort.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/MachPort.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/MachPort.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/MachPort.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/PlatformString.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/PlatformString.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/PlatformString.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/PlatformString.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/PlatformString.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/PlatformString.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/SystemString.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/SystemString.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/SystemString.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/SystemString.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/SystemString.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/SystemString.swiftdeps"
+  }
+}

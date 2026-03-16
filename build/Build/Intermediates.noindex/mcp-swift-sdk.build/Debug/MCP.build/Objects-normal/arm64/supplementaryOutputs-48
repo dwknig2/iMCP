@@ -1,0 +1,23 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Error.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Error.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Error.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Error.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Error.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Error.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/ID.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/ID.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/ID.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/ID.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/ID.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/ID.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Lifecycle.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Lifecycle.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Lifecycle.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Lifecycle.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Lifecycle.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Lifecycle.swiftdeps"
+  }
+}

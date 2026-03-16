@@ -1,0 +1,72 @@
+{
+  "source": "/Users/daniel/Documents/GitHub/iMCP/App/Views/ConnectionApprovalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Client Connection Request",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Allow \"%@\" to connect to iMCP?",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "This will give the client access to enabled services.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Always trust this client",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Deny",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Allow",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Always trust this client, checked",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Always trust this client, unchecked",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 73
+        }
+      }
+    ]
+  },
+  "version": 1
+}

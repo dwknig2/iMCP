@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-service-lifecycle/Sources/ServiceLifecycle/AsyncCancelOnGracefulShutdownSequence.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ServiceLifecycle.build/Objects-normal/arm64/ServiceLifecycle.swiftsourceinfo"
+  }
+}

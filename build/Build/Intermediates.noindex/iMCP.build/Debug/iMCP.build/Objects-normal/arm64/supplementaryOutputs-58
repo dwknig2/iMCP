@@ -1,0 +1,30 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/App/App.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/App.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/App.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/App.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/App.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/App.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/ServiceToggleView.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServiceToggleView.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServiceToggleView.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServiceToggleView.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServiceToggleView.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ServiceToggleView.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/SettingsView.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/SettingsView.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/SettingsView.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  }
+}

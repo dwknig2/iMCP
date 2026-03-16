@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/eventsource/Sources/EventSource/AsyncEventsSequence.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/EventSource.build/Release/EventSource.build/Objects-normal/arm64/EventSource.swiftsourceinfo"
+  }
+}

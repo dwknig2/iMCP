@@ -1,0 +1,58 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Hashable.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Hashable.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Hashable.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Hashable.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Hashable.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Initializers.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Initializers.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Initializers.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Initializers.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Initializers.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Invariants.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Invariants.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Invariants.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Invariants.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Invariants.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial MutableCollection.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial MutableCollection.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial MutableCollection.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial MutableCollection.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial MutableCollection.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial RangeReplaceableCollection.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial RangeReplaceableCollection.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial RangeReplaceableCollection.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial RangeReplaceableCollection.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Partial RangeReplaceableCollection.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sendable.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sendable.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sendable.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sendable.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sendable.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sendable.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Sequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Values.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Values.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Values.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Values.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedDictionary+Values.swiftdeps"
+  }
+}

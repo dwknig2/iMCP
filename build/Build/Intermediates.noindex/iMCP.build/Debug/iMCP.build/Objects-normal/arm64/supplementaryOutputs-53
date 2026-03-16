@@ -1,0 +1,37 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/ScreenCaptureKit+Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Integrations/ChatGPT.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ChatGPT.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ChatGPT.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ChatGPT.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ChatGPT.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ChatGPT.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Integrations/ClaudeDesktop.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ClaudeDesktop.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ClaudeDesktop.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ClaudeDesktop.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ClaudeDesktop.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/ClaudeDesktop.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Integrations/Cursor.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Cursor.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Cursor.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Cursor.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Cursor.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Cursor.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Models/Service.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Service.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Service.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Service.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Service.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/iMCP.build/Debug/iMCP.build/Objects-normal/arm64/Service.swiftdeps"
+  }
+}

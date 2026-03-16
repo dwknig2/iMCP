@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/imcp-server-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/CLI/main.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/imcp-server.build/Objects-normal/arm64/main.o"
+  }
+}

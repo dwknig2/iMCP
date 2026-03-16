@@ -1,0 +1,23 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Messages.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Messages.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Messages.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Messages.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Messages.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Messages.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transport.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Transport.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Transport.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Transport.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Transport.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/Transport.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transports/HTTPClientTransport.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/HTTPClientTransport.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/HTTPClientTransport.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/HTTPClientTransport.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/HTTPClientTransport.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/HTTPClientTransport.swiftdeps"
+  }
+}

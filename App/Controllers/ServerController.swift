@@ -432,6 +432,7 @@ actor MCPConnectionManager {
         self.transport = NetworkTransport(
             connection: connection,
             logger: nil,
+            reconnectionConfig: .disabled,
             bufferConfig: .unlimited
         )
 

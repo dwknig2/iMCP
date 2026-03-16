@@ -36,3 +36,7 @@ playground.xcworkspace
 
 # Release artifacts
 dist/
+
+# Jess messages export (large JSON and copied attachments)
+Scripts/jess_attachments/
+Scripts/jess_messages.json

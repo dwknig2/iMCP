@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStream-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStream-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStream-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStream-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStream-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/madrid/Sources/TypedStream/Archivable.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.dia",
+    "index-unit-output-path" : "/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Archivable~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/madrid/Sources/TypedStream/Class.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.dia",
+    "index-unit-output-path" : "/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Class~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/madrid/Sources/TypedStream/Object.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.dia",
+    "index-unit-output-path" : "/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Object~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/madrid/Sources/TypedStream/Type.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.dia",
+    "index-unit-output-path" : "/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/Type~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/madrid/Sources/TypedStream/TypedStreamDecoder.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.dia",
+    "index-unit-output-path" : "/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Madrid.build/Debug/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder~partial.swiftmodule"
+  }
+}

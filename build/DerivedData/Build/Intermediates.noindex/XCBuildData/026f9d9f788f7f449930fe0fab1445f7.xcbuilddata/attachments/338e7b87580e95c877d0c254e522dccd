@@ -1,0 +1,96 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Ontology-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Extensions/TimeZone+Extensions.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/JSON-LD.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/JSON-LD.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/JSON-LD.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/JSON-LD.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Schema.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Schema.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Schema.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Schema.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/ContactPoint.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/ContactPoint.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/ContactPoint.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/ContactPoint.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/DateTime.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/DateTime.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/DateTime.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/DateTime.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/Event.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Event.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Event.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Event.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/GeoCoordinates.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/GeoCoordinates.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/GeoCoordinates.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/GeoCoordinates.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/ItemList.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/ItemList.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/ItemList.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/ItemList.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/Organization.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Organization.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Organization.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Organization.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/Person.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Person.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Person.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Person.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/Place.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Place.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Place.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Place.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/PlanAction.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/PlanAction.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/PlanAction.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/PlanAction.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/PostalAddress.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/PostalAddress.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/PostalAddress.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/PostalAddress.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/QuantitativeValue.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/QuantitativeValue.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/QuantitativeValue.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/QuantitativeValue.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/Trip.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Trip.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Trip.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/Trip.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/WeatherConditions.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/WeatherConditions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/WeatherConditions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/WeatherConditions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/Ontology/Sources/Ontology/Types/WeatherForecast.swift" : {
+    "index-unit-output-path" : "/Ontology.build/Release/Ontology.build/Objects-normal/arm64/WeatherForecast.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/WeatherForecast.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Ontology.build/Release/Ontology.build/Objects-normal/arm64/WeatherForecast.o"
+  }
+}

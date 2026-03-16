@@ -1,0 +1,23 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transports/NetworkTransport.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/NetworkTransport.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/NetworkTransport.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/NetworkTransport.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/NetworkTransport.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/NetworkTransport.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/Transports/StdioTransport.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/StdioTransport.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/StdioTransport.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/StdioTransport.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/StdioTransport.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/StdioTransport.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-sdk/Sources/MCP/Base/UnitInterval.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/UnitInterval.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/UnitInterval.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/UnitInterval.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/UnitInterval.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/mcp-swift-sdk.build/Debug/MCP.build/Objects-normal/arm64/UnitInterval.swiftdeps"
+  }
+}

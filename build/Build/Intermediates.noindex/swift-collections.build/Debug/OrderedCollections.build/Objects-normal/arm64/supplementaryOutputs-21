@@ -1,0 +1,51 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra intersection.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra intersection.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra intersection.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra intersection.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra intersection.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra intersection.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isDisjoint.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isDisjoint.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isDisjoint.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isDisjoint.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isDisjoint.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isDisjoint.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isEqualSet.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isEqualSet.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isEqualSet.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isEqualSet.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isEqualSet.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isEqualSet.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSubset.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSubset.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSubset.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSubset.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSubset.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSubset.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSuperset.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSuperset.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSuperset.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSuperset.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSuperset.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isStrictSuperset.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSubset.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSubset.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSubset.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSubset.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSubset.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSubset.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSuperset.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSuperset.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSuperset.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSuperset.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSuperset.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Partial SetAlgebra isSuperset.swiftdeps"
+  }
+}

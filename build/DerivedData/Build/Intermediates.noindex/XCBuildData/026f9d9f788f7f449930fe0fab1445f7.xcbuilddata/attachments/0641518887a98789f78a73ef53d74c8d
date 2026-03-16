@@ -1,0 +1,186 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/iMCP-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/App.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/App.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Controllers/ServerController.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ServerController.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ServerController.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ServerController.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/AVFoundation+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AVFoundation+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/AppKit+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AppKit+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AppKit+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AppKit+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/Bundle+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Bundle+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Bundle+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Bundle+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/Contacts+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Contacts+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Contacts+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Contacts+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/CoreGraphics+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/CoreGraphics+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/CoreGraphics+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/CoreGraphics+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/EventKit+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/EventKit+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/EventKit+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/EventKit+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/Foundation+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Foundation+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Foundation+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Foundation+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/Logger+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Logger+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Logger+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Logger+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/MapKit+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/MapKit+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/MapKit+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/MapKit+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Extensions/ScreenCaptureKit+Extensions.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ScreenCaptureKit+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Integrations/ChatGPT.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ChatGPT.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ChatGPT.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ChatGPT.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Integrations/ClaudeDesktop.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ClaudeDesktop.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ClaudeDesktop.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ClaudeDesktop.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Integrations/Cursor.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Cursor.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Cursor.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Cursor.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Models/Service.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Service.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Service.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Service.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Models/Tool.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Tool.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Tool.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Tool.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Models/Value.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Value.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Value.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Value.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Calendar.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Calendar.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Calendar.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Calendar.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Capture.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Capture.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Capture.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Capture.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Contacts.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Contacts.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Contacts.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Contacts.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Location.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Location.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Location.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Location.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Maps.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Maps.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Maps.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Maps.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Messages.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Messages.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Messages.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Messages.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Reminders.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Reminders.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Reminders.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Reminders.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Shortcuts.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Shortcuts.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Shortcuts.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Shortcuts.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Utilities.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Utilities.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Utilities.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Utilities.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Services/Weather.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Weather.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Weather.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/Weather.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Shared/ResumeGate.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ResumeGate.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ResumeGate.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ResumeGate.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/AboutWindow.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AboutWindow.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AboutWindow.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/AboutWindow.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/ConnectionApprovalView.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ConnectionApprovalView.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ConnectionApprovalView.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ConnectionApprovalView.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/ContentView.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/ServiceToggleView.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ServiceToggleView.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ServiceToggleView.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/ServiceToggleView.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/App/Views/SettingsView.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/iMCP.build/Release/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/iMCP.build/Release/iMCP.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

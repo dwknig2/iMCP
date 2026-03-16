@@ -1,0 +1,51 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Sendable.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Sendable.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Sendable.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Sendable.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Sendable.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Sendable.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+SubSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+SubSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+SubSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+SubSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+SubSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Testing.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Testing.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Testing.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Testing.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+Testing.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnorderedView.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnorderedView.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnorderedView.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnorderedView.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnorderedView.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnstableInternals.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnstableInternals.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnstableInternals.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnstableInternals.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet+UnstableInternals.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/OrderedSet.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/_UnsafeBitset.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/_UnsafeBitset.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/_UnsafeBitset.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/_UnsafeBitset.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/OrderedCollections.build/Objects-normal/arm64/_UnsafeBitset.swiftdeps"
+  }
+}

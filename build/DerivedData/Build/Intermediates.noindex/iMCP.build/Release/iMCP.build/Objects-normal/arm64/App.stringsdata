@@ -1,0 +1,24 @@
+{
+  "source": "/Users/daniel/Documents/GitHub/iMCP/App/App.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "iMCP",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

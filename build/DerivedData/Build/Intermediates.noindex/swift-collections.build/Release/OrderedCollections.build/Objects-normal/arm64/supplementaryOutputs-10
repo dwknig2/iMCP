@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/OrderedCollections.build/Objects-normal/arm64/OrderedCollections.swiftsourceinfo"
+  }
+}

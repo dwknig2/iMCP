@@ -1,0 +1,30 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/Errno.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Errno.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Errno.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Errno.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Errno.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Errno.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/ErrnoWindows.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/ErrnoWindows.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/ErrnoWindows.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/ErrnoWindows.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/ErrnoWindows.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/ErrnoWindows.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/FileDescriptor.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileDescriptor.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileDescriptor.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileDescriptor.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileDescriptor.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileDescriptor.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/FileHelpers.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileHelpers.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileHelpers.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileHelpers.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileHelpers.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileHelpers.swiftdeps"
+  }
+}

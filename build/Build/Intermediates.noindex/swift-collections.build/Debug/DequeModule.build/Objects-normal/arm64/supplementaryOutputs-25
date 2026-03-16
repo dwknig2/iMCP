@@ -1,0 +1,44 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque/Deque+Extras.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Extras.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Extras.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Extras.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Extras.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Extras.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque/Deque+Hashable.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Hashable.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Hashable.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Hashable.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Hashable.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Hashable.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque/Deque+Testing.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Testing.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Testing.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Testing.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Testing.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque+Testing.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque/Deque._Storage.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._Storage.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._Storage.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._Storage.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._Storage.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._Storage.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque/Deque._UnsafeHandle.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._UnsafeHandle.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._UnsafeHandle.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._UnsafeHandle.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._UnsafeHandle.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque._UnsafeHandle.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque/Deque.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-collections.build/Debug/DequeModule.build/Objects-normal/arm64/Deque.swiftdeps"
+  }
+}

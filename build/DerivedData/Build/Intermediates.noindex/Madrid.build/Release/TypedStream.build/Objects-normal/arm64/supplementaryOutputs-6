@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/TypedStream/Archivable.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream.swiftsourceinfo"
+  }
+}

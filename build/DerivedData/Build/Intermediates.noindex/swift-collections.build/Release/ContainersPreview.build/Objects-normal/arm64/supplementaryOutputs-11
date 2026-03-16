@@ -1,0 +1,12 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-collections/Sources/ContainersPreview/Extensions/OutputSpan+Extras.swift" : {
+    "abi-baseline-json" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview.abi.json",
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview-primary.dia",
+    "objc-header" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview-Swift.h",
+    "swiftdoc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview.swiftdoc",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview.swiftmodule",
+    "swiftsourceinfo" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-collections.build/Release/ContainersPreview.build/Objects-normal/arm64/ContainersPreview.swiftsourceinfo"
+  }
+}

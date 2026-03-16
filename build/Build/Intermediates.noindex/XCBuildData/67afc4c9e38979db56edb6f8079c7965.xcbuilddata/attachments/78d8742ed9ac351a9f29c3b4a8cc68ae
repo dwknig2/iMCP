@@ -1,0 +1,4 @@
+module iMessage {
+header "iMessage-Swift.h"
+export *
+}

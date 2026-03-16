@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/JSONSchema/Sources/JSONSchema/JSONSchema.swift" : {
+    "index-unit-output-path" : "/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONSchema.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/JSONSchema/Sources/JSONSchema/JSONValue.swift" : {
+    "index-unit-output-path" : "/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONValue.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONValue.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/JSONSchema.build/Release/JSONSchema.build/Objects-normal/arm64/JSONValue.o"
+  }
+}

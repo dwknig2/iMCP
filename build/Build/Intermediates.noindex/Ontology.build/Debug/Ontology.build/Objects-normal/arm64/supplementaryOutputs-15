@@ -1,0 +1,23 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/Ontology/Sources/Ontology/Extensions/TimeZone+Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/TimeZone+Extensions.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/Ontology/Sources/Ontology/JSON-LD.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/JSON-LD.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/JSON-LD.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/JSON-LD.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/JSON-LD.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/JSON-LD.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/Ontology/Sources/Ontology/Schema.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/Schema.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/Schema.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/Schema.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/Schema.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/Ontology.build/Debug/Ontology.build/Objects-normal/arm64/Schema.swiftdeps"
+  }
+}

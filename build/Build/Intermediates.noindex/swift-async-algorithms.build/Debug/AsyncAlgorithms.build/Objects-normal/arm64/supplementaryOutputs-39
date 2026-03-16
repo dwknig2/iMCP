@@ -1,0 +1,51 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Rethrow.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Rethrow.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Rethrow.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Rethrow.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Rethrow.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Rethrow.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/SetAlgebra.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/SetAlgebra.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/SetAlgebra.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/SetAlgebra.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/SetAlgebra.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/SetAlgebra.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/UnsafeTransfer.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnsafeTransfer.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnsafeTransfer.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnsafeTransfer.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnsafeTransfer.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/UnsafeTransfer.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Zip/AsyncZip2Sequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip2Sequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip2Sequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip2Sequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip2Sequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip2Sequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Zip/AsyncZip3Sequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip3Sequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip3Sequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip3Sequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip3Sequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncZip3Sequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Zip/ZipStateMachine.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStateMachine.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStateMachine.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStateMachine.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStateMachine.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Zip/ZipStorage.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStorage.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStorage.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStorage.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStorage.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/ZipStorage.swiftdeps"
+  }
+}

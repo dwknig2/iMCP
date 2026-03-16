@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/Lock.swift" : {
+    "index-unit-output-path" : "/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/LockedValueBox.swift" : {
+    "index-unit-output-path" : "/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/swift-service-lifecycle.build/Release/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.o"
+  }
+}

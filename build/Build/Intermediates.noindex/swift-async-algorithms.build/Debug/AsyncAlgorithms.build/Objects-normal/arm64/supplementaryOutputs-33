@@ -1,0 +1,58 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncCompactedSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCompactedSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCompactedSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCompactedSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCompactedSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCompactedSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncExclusiveReductionsSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncExclusiveReductionsSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncExclusiveReductionsSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncExclusiveReductionsSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncExclusiveReductionsSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncExclusiveReductionsSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncInclusiveReductionsSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncInclusiveReductionsSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncInclusiveReductionsSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncInclusiveReductionsSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncInclusiveReductionsSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncInclusiveReductionsSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncJoinedBySeparatorSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedBySeparatorSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedBySeparatorSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedBySeparatorSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedBySeparatorSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedBySeparatorSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncJoinedSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncJoinedSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncMapErrorSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncMapErrorSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncMapErrorSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncMapErrorSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncMapErrorSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncMapErrorSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncRemoveDuplicatesSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncRemoveDuplicatesSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncRemoveDuplicatesSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncRemoveDuplicatesSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncRemoveDuplicatesSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncRemoveDuplicatesSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/AsyncShareSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncShareSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncShareSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncShareSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncShareSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncShareSequence.swiftdeps"
+  }
+}

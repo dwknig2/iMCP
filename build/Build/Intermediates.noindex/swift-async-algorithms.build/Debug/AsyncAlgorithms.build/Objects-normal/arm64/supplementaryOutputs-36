@@ -1,0 +1,51 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/CombineLatest/AsyncCombineLatest3Sequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest3Sequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest3Sequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest3Sequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest3Sequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncCombineLatest3Sequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/CombineLatest/CombineLatestStateMachine.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStateMachine.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStateMachine.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStateMachine.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStateMachine.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/CombineLatest/CombineLatestStorage.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStorage.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStorage.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStorage.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStorage.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/CombineLatestStorage.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Debounce/AsyncDebounceSequence.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncDebounceSequence.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncDebounceSequence.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncDebounceSequence.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncDebounceSequence.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/AsyncDebounceSequence.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Debounce/DebounceStateMachine.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStateMachine.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStateMachine.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStateMachine.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStateMachine.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStateMachine.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Debounce/DebounceStorage.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStorage.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStorage.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStorage.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStorage.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/DebounceStorage.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-async-algorithms/Sources/AsyncAlgorithms/Dictionary.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Dictionary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Dictionary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Dictionary.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Dictionary.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-async-algorithms.build/Debug/AsyncAlgorithms.build/Objects-normal/arm64/Dictionary.swiftdeps"
+  }
+}

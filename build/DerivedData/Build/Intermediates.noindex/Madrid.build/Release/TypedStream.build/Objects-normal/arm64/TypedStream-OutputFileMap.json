@@ -1,0 +1,36 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStream-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/TypedStream/Archivable.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Archivable.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Archivable.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Archivable.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/TypedStream/Class.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Class.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Class.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Class.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/TypedStream/Object.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Object.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Object.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Object.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/TypedStream/Type.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Type.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Type.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/Type.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/TypedStream/TypedStreamDecoder.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/TypedStream.build/Objects-normal/arm64/TypedStreamDecoder.o"
+  }
+}

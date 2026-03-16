@@ -1,0 +1,30 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/Internals/Mocking.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Mocking.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Mocking.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Mocking.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Mocking.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Mocking.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/Internals/RawBuffer.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/RawBuffer.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/RawBuffer.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/RawBuffer.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/RawBuffer.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/RawBuffer.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/Internals/Syscalls.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Syscalls.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Syscalls.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Syscalls.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Syscalls.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/Syscalls.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/Internals/WindowsSyscallAdapters.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/WindowsSyscallAdapters.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/WindowsSyscallAdapters.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/WindowsSyscallAdapters.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/WindowsSyscallAdapters.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/WindowsSyscallAdapters.swiftdeps"
+  }
+}

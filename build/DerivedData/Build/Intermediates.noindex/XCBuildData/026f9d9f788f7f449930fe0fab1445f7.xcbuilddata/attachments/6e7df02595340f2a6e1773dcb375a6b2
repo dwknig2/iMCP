@@ -1,0 +1,46 @@
+{
+  "" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/iMessage-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/Account.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Account.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Account.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Account.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/Chat.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Chat.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Chat.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Chat.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/Database.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Database.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Database.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Database.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/Extensions/Data+Extensions.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Data+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Data+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Data+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/Extensions/Date+Extensions.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Date+Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Date+Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Date+Extensions.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/GUID.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/GUID.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/GUID.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/GUID.o"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/SourcePackages/checkouts/madrid/Sources/iMessage/Message.swift" : {
+    "index-unit-output-path" : "/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Message.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Message.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/DerivedData/Build/Intermediates.noindex/Madrid.build/Release/iMessage.build/Objects-normal/arm64/Message.o"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/ConcurrencyHelpers-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/Lock.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.dia",
+    "index-unit-output-path" : "/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/Lock~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/LockedValueBox.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.dia",
+    "index-unit-output-path" : "/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-service-lifecycle.build/Debug/ConcurrencyHelpers.build/Objects-normal/arm64/LockedValueBox~partial.swiftmodule"
+  }
+}

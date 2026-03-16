@@ -1,0 +1,32 @@
+{
+  "source": "/Users/daniel/Documents/GitHub/iMCP/App/Views/AboutWindow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Report an Issue...",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "iMCP",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

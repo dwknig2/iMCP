@@ -1,0 +1,30 @@
+{
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/FileOperations.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileOperations.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileOperations.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileOperations.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileOperations.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FileOperations.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/FilePath/FilePath.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePath.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePath.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePath.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePath.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePath.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/FilePath/FilePathComponentView.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponentView.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponentView.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponentView.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponentView.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponentView.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/swift-system/Sources/System/FilePath/FilePathComponents.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponents.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponents.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponents.dia",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponents.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/swift-system.build/Debug/SystemPackage.build/Objects-normal/arm64/FilePathComponents.swiftdeps"
+  }
+}

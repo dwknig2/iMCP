@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess-primary.dia",
+    "emit-module-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess-primary-emit-module.dia",
+    "pch" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess-primary.swiftdeps"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/MenuBarExtra Window Introspection.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtra Window Introspection~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/MenuBarExtraAccess.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraAccess~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/MenuBarExtraUtils/MenuBarExtraUtils.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/MenuBarExtraUtils~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/MenuBarExtraUtils/StatusItemIdentity.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/StatusItemIdentity~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/NSControl Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSControl Extensions~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/NSEvent Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSEvent Extensions~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/NSStatusItem Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSStatusItem Extensions~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/NSWindow Extensions.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/NSWindow Extensions~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/Unused/Unused Code.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Unused Code~partial.swiftmodule"
+  },
+  "/Users/daniel/Documents/GitHub/iMCP/build/SourcePackages/checkouts/MenuBarExtraAccess/Sources/MenuBarExtraAccess/Utilities.swift" : {
+    "const-values" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.swiftconstvalues",
+    "dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.d",
+    "diagnostics" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.dia",
+    "index-unit-output-path" : "/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.o",
+    "llvm-bc" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.bc",
+    "object" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.o",
+    "swift-dependencies" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities.swiftdeps",
+    "swiftmodule" : "/Users/daniel/Documents/GitHub/iMCP/build/Build/Intermediates.noindex/MenuBarExtraAccess.build/Debug/MenuBarExtraAccess.build/Objects-normal/arm64/Utilities~partial.swiftmodule"
+  }
+}
