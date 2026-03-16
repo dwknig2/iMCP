@@ -1,12 +1,10 @@
 import AppKit
-import MenuBarExtraAccess
 import SwiftUI
 
 struct ContentView: View {
     @ObservedObject var serverController: ServerController
     @Binding var isEnabled: Bool
     @Binding var isMenuPresented: Bool
-    @Environment(\.openSettings) private var openSettings
 
     private let aboutWindowController: AboutWindowController
 
@@ -113,7 +111,8 @@ struct ContentView: View {
                 Divider()
 
                 MenuButton("Settings...", isMenuPresented: $isMenuPresented) {
-                    openSettings()
+                    NSApp.activate(ignoringOtherApps: true)
+                    NSApp.sendAction(Selector(("showSettingsWindow:")), to: nil, from: nil)
                 }
 
                 MenuButton("About iMCP", isMenuPresented: $isMenuPresented) {

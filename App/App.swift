@@ -1,8 +1,15 @@
-import MenuBarExtraAccess
 import SwiftUI
+
+/// Sets activation policy so the menu bar icon is visible (macOS 14/15 can hide it with .accessory).
+private final class AppDelegate: NSObject, NSApplicationDelegate {
+    func applicationDidFinishLaunching(_ notification: Notification) {
+        NSApp.setActivationPolicy(.regular)
+    }
+}
 
 @main
 struct App: SwiftUI.App {
+    @NSApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
     @StateObject private var serverController = ServerController()
     @AppStorage("isEnabled") private var isEnabled = true
     @State private var isMenuPresented = false
@@ -15,7 +22,6 @@ struct App: SwiftUI.App {
                 isMenuPresented: $isMenuPresented
             )
         }
-        .menuBarExtraAccess(isPresented: $isMenuPresented)
         .menuBarExtraStyle(.window)
 
         Settings {

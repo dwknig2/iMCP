@@ -231,7 +231,7 @@ claude mcp add-from-claude-desktop
 ### Connect to [Cursor][cursor]
 
 Open this deep link to automatically install the iMCP server:
-[Install MCP Server in Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=iMCP&config=eyJpTUNQIjp7ImNvbW1hbmQiOiIvQXBwbGljYXRpb25zL2lNQ1AuYXBwL0NvbnRlbnRzL01hY09TL2ltY3Atc2VydmVyIn19).
+[Install MCP Server in Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=iMCP&config=eyJjb21tYW5kIjoiL0FwcGxpY2F0aW9ucy9pTUNQLmFwcC9Db250ZW50cy9NYWNPUy9pbWNwLXNlcnZlciJ9).
 
 You can also use the iMCP menu bar: click the icon and choose **Configure Cursor** to open the install link, or **Copy Cursor mcp.json snippet** to paste into your Cursor config.
 

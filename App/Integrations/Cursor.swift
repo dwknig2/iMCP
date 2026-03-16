@@ -8,16 +8,23 @@ enum Cursor {
             .path
     }
 
-    /// Builds the Cursor MCP install deeplink URL. Cursor expects config to be base64-encoded JSON
-    /// with the same shape as mcp.json: { "iMCP": { "command": "<path>" } }.
+    /// Builds the Cursor MCP install deeplink URL. The `config` parameter must be the server
+    /// configuration object only (e.g. `{"command": "..."}`); the `name` query param identifies the server.
     static func installDeeplinkURL() -> URL? {
-        let config = ["iMCP": ["command": serverCommandPath]]
+        let config = ["command": serverCommandPath]
         guard let data = try? JSONSerialization.data(withJSONObject: config),
               let encoded = String(data: data, encoding: .utf8)
         else { return nil }
         let base64 = Data(encoded.utf8).base64EncodedString()
-        let urlString = "cursor://anysphere.cursor-deeplink/mcp/install?name=iMCP&config=\(base64)"
-        return URL(string: urlString)
+        var components = URLComponents()
+        components.scheme = "cursor"
+        components.host = "anysphere.cursor-deeplink"
+        components.path = "/mcp/install"
+        components.queryItems = [
+            URLQueryItem(name: "name", value: "iMCP"),
+            URLQueryItem(name: "config", value: base64),
+        ]
+        return components.url
     }
 
     /// Returns a JSON snippet suitable for pasting into ~/.cursor/mcp.json or .cursor/mcp.json.
