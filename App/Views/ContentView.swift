@@ -83,6 +83,14 @@ struct ContentView: View {
                     ClaudeDesktop.showConfigurationPanel()
                 }
 
+                MenuButton("Configure Cursor", isMenuPresented: $isMenuPresented) {
+                    Cursor.openInstallDeeplink()
+                }
+
+                MenuButton("Configure ChatGPT", isMenuPresented: $isMenuPresented) {
+                    ChatGPT.showConfigurationPanel()
+                }
+
                 MenuButton("Copy server command to clipboard", isMenuPresented: $isMenuPresented) {
                     let command = Bundle.main.bundleURL
                         .appendingPathComponent("Contents/MacOS/imcp-server")
@@ -91,6 +99,10 @@ struct ContentView: View {
                     let pasteboard = NSPasteboard.general
                     pasteboard.clearContents()
                     pasteboard.setString(command, forType: .string)
+                }
+
+                MenuButton("Copy Cursor mcp.json snippet", isMenuPresented: $isMenuPresented) {
+                    Cursor.copyMCPJSONSnippetToPasteboard()
                 }
             }
             .padding(.top, 8)

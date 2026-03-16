@@ -77,6 +77,17 @@ you can run the following command:
 brew install --cask mattt/tap/iMCP
 ```
 
+**Install from source and integrate with Cursor, Claude Desktop, and ChatGPT (one script):**
+
+From the iMCP repo (after cloning), run the install script. It builds the app (if needed), copies it to `/Applications`, and merges the iMCP server into Cursor’s `~/.cursor/mcp.json` and Claude Desktop’s `~/Library/Application Support/Claude/claude_desktop_config.json`. ChatGPT has no local config; the script prints instructions and you can use the iMCP menu **Configure ChatGPT**.
+
+```console
+# From repo root; requires jq
+REPO_DIR="$(pwd)" bash Scripts/install-imcp-integration.sh
+```
+
+If you use [Desktop Commander](https://github.com/wonderwhy-er/desktop-commander) MCP, you can run the same script via its `start_process` tool (e.g. from Cursor) so the integration is applied locally without leaving the editor.
+
 <img align="right" width="344" src="/Assets/imcp-screenshot-first-launch.png" alt="Screenshot of iMCP on first launch" />
 
 When you open the app,
@@ -220,14 +231,39 @@ claude mcp add-from-claude-desktop
 ### Connect to [Cursor][cursor]
 
 Open this deep link to automatically install the iMCP server:
+[Install MCP Server in Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=iMCP&config=eyJpTUNQIjp7ImNvbW1hbmQiOiIvQXBwbGljYXRpb25zL2lNQ1AuYXBwL0NvbnRlbnRzL01hY09TL2ltY3Atc2VydmVyIn19).
 
-<a href="https://cursor.com/en-US/install-mcp?name=iMCP&config=eyJjb21tYW5kIjoiL0FwcGxpY2F0aW9ucy9pTUNQLmFwcC9Db250ZW50cy9NYWNPUy9pbWNwLXNlcnZlciAifQ%3D%3D">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cursor.com/deeplink/mcp-install-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cursor.com/deeplink/mcp-install-light.svg">
-    <img alt="Install MCP Server" src="https://cursor.com/deeplink/mcp-install-light.svg">
-  </picture>
-</a>
+You can also use the iMCP menu bar: click the icon and choose **Configure Cursor** to open the install link, or **Copy Cursor mcp.json snippet** to paste into your Cursor config.
+
+<details>
+<summary>Configure Cursor manually</summary>
+
+Cursor reads MCP servers from `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` (project). Add the iMCP server:
+
+```json
+{
+  "mcpServers": {
+    "iMCP": {
+      "command": "/Applications/iMCP.app/Contents/MacOS/imcp-server"
+    }
+  }
+}
+```
+
+If `mcp.json` already exists, add the `"iMCP"` entry inside `mcpServers`. Restart Cursor after changing the config.
+
+</details>
+
+### Connect to [ChatGPT][chatgpt] (desktop app)
+
+ChatGPT adds MCP servers through **workspace Apps** (Developer mode), not a local config file. To use iMCP with the ChatGPT desktop app:
+
+1. Enable **Developer mode** in your workspace: ChatGPT → Settings → Permissions & Roles → **Connected Data Developer mode**.
+2. When adding an MCP server in your workspace or app, use the iMCP server command:
+   `/Applications/iMCP.app/Contents/MacOS/imcp-server`
+3. You can also click the iMCP menu bar icon → **Configure ChatGPT** to copy the command and open [OpenAI’s MCP documentation][openai-mcp].
+
+Keep the iMCP app running (menu bar, "Enable MCP Server" on) so ChatGPT can connect.
 
 ### Connect to [Amp][amp]
 
@@ -240,6 +276,9 @@ amp mcp add iMCP -- /Applications/iMCP.app/Contents/MacOS/imcp-server
 > [!NOTE]
 > When a client first connects, iMCP will show an approval dialog.
 > Click "Allow" and check "Always trust this client" to avoid repeated prompts.
+
+> [!TIP]
+> **Troubleshooting:** The iMCP app must be running (menu bar icon visible, "Enable MCP Server" on) before Cursor, Claude Desktop, or ChatGPT can use it. Restart the client after changing MCP config.
 
 ## Technical Details
 
@@ -394,9 +433,11 @@ This project is not affiliated with, endorsed, or sponsored by Apple Inc.
 [claude-code]: https://claude.com/product/claude-code
 [companion]: https://github.com/mattt/Companion
 [companion-download]: https://github.com/mattt/Companion/releases/latest/download/Companion.zip
+[chatgpt]: https://openai.com/chatgpt/desktop
 [contacts-framework]: https://developer.apple.com/documentation/contacts
 [cncontact]: https://developer.apple.com/documentation/contacts/cncontact
 [cursor]: https://cursor.com
+[openai-mcp]: https://platform.openai.com/docs/mcp
 [imessage-exporter]: https://github.com/ReagentX/imessage-exporter
 [json-ld]: https://json-ld.org
 [madrid]: https://github.com/mattt/Madrid
