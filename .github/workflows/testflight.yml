@@ -1,0 +1,129 @@
+name: TestFlight release
+
+# Manually triggered. Archives a signed iOS build and uploads it to TestFlight.
+#
+# Required repository secrets:
+#   APP_STORE_CONNECT_API_KEY_ID
+#   APP_STORE_CONNECT_API_ISSUER_ID
+#   APP_STORE_CONNECT_API_KEY_P8
+#
+# Signing is automatic. The Apple Developer Team ID is shared with the existing
+# iRing project and is not secret.
+
+on:
+  workflow_dispatch:
+    inputs:
+      bundle_id:
+        description: "Bundle identifier to ship under"
+        required: false
+        default: "com.theprojectmanual.app"
+
+env:
+  KEY_ID: ${{ secrets.APP_STORE_CONNECT_API_KEY_ID }}
+  ISSUER_ID: ${{ secrets.APP_STORE_CONNECT_API_ISSUER_ID }}
+  TEAM_ID: SZTY9VJ745
+  BUNDLE_ID: ${{ inputs.bundle_id }}
+
+jobs:
+  release:
+    name: Archive, sign, and upload to TestFlight
+    runs-on: macos-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Show Xcode version
+        run: xcodebuild -version
+
+      - name: Validate App Store Connect secrets
+        env:
+          API_KEY_P8: ${{ secrets.APP_STORE_CONNECT_API_KEY_P8 }}
+        run: |
+          set -euo pipefail
+          test -n "$KEY_ID" || { echo "Missing APP_STORE_CONNECT_API_KEY_ID"; exit 1; }
+          test -n "$ISSUER_ID" || { echo "Missing APP_STORE_CONNECT_API_ISSUER_ID"; exit 1; }
+          test -n "$API_KEY_P8" || { echo "Missing APP_STORE_CONNECT_API_KEY_P8"; exit 1; }
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        working-directory: TheProjectManual
+        run: xcodegen generate
+
+      - name: Write App Store Connect API key
+        env:
+          API_KEY_P8: ${{ secrets.APP_STORE_CONNECT_API_KEY_P8 }}
+        run: |
+          set -euo pipefail
+          KEY_DIR="$RUNNER_TEMP/appstoreconnect"
+          mkdir -p "$KEY_DIR"
+          printf '%s' "$API_KEY_P8" > "$KEY_DIR/AuthKey_${KEY_ID}.p8"
+          chmod 600 "$KEY_DIR/AuthKey_${KEY_ID}.p8"
+
+      - name: Archive signed build
+        run: |
+          set -euo pipefail
+          set -o pipefail
+          xcodebuild archive \
+            -project TheProjectManual/TheProjectManual.xcodeproj \
+            -scheme TheProjectManual \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -archivePath "$RUNNER_TEMP/TheProjectManual.xcarchive" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$RUNNER_TEMP/appstoreconnect/AuthKey_${KEY_ID}.p8" \
+            -authenticationKeyID "$KEY_ID" \
+            -authenticationKeyIssuerID "$ISSUER_ID" \
+            DEVELOPMENT_TEAM="$TEAM_ID" \
+            CODE_SIGN_STYLE=Automatic \
+            PRODUCT_BUNDLE_IDENTIFIER="$BUNDLE_ID" \
+            CURRENT_PROJECT_VERSION="${{ github.run_number }}" \
+            INFOPLIST_KEY_ITSAppUsesNonExemptEncryption=NO
+
+      - name: Verify archived signing metadata
+        run: |
+          set -euo pipefail
+          APP_PLIST="$RUNNER_TEMP/TheProjectManual.xcarchive/Products/Applications/TheProjectManual.app/Info.plist"
+          /usr/libexec/PlistBuddy -c 'Print :CFBundleIdentifier' "$APP_PLIST"
+          /usr/libexec/PlistBuddy -c 'Print :CFBundleVersion' "$APP_PLIST"
+          /usr/libexec/PlistBuddy -c 'Print :ITSAppUsesNonExemptEncryption' "$APP_PLIST"
+          codesign -dv --verbose=2 "$RUNNER_TEMP/TheProjectManual.xcarchive/Products/Applications/TheProjectManual.app" 2>&1 | grep -E 'Identifier=|TeamIdentifier='
+
+      - name: Create TestFlight export options
+        run: |
+          cat > "$RUNNER_TEMP/ExportOptions.plist" <<'PLIST'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0">
+          <dict>
+            <key>method</key>
+            <string>app-store-connect</string>
+            <key>destination</key>
+            <string>upload</string>
+            <key>signingStyle</key>
+            <string>automatic</string>
+            <key>teamID</key>
+            <string>SZTY9VJ745</string>
+            <key>manageAppVersionAndBuildNumber</key>
+            <true/>
+          </dict>
+          </plist>
+          PLIST
+
+      - name: Upload to TestFlight
+        run: |
+          set -euo pipefail
+          xcodebuild -exportArchive \
+            -archivePath "$RUNNER_TEMP/TheProjectManual.xcarchive" \
+            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$RUNNER_TEMP/appstoreconnect/AuthKey_${KEY_ID}.p8" \
+            -authenticationKeyID "$KEY_ID" \
+            -authenticationKeyIssuerID "$ISSUER_ID"
+
+      - name: Remove temporary API key
+        if: always()
+        run: rm -rf "$RUNNER_TEMP/appstoreconnect"

@@ -1,0 +1,61 @@
+name: macOS build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build and test (iOS)
+    runs-on: macos-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Show Xcode version
+        run: xcodebuild -version
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+        working-directory: TheProjectManual
+
+      - name: Pick an iPhone simulator
+        id: sim
+        run: |
+          udid=$(xcrun simctl list devices available --json | python3 -c '
+          import json, sys
+          data = json.load(sys.stdin)
+          for runtime in sorted(data["devices"], reverse=True):
+              if "iOS" not in runtime:
+                  continue
+              for d in data["devices"][runtime]:
+                  if d.get("isAvailable") and "iPhone" in d["name"]:
+                      print(d["udid"])
+                      raise SystemExit(0)
+          sys.exit("No available iPhone simulator found")
+          ')
+          echo "Using simulator $udid"
+          echo "udid=$udid" >> "$GITHUB_OUTPUT"
+
+      - name: Build and run tests
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project TheProjectManual/TheProjectManual.xcodeproj \
+            -scheme TheProjectManual \
+            -destination "id=${{ steps.sim.outputs.udid }}" \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO \
+            build test
+
+      - name: Upload simulator app
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: TheProjectManual-simulator-app
+          path: build/Build/Products/Debug-iphonesimulator/TheProjectManual.app
+          if-no-files-found: ignore

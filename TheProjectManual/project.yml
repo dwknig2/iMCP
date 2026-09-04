@@ -1,0 +1,48 @@
+# XcodeGen spec — lets CI (and anyone without the .xcodeproj) generate the
+# Xcode project deterministically: `cd TheProjectManual && xcodegen generate`
+name: TheProjectManual
+
+options:
+  bundleIdPrefix: com.theprojectmanual
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+
+targets:
+  TheProjectManual:
+    type: application
+    platform: iOS
+    sources:
+      - path: TheProjectManual
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.theprojectmanual.app
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        CURRENT_PROJECT_VERSION: 1
+        MARKETING_VERSION: "0.1.0"
+        TARGETED_DEVICE_FAMILY: "1,2"
+        CODE_SIGN_STYLE: Automatic
+
+  TheProjectManualTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: TheProjectManualTests
+    dependencies:
+      - target: TheProjectManual
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.theprojectmanual.tests
+        GENERATE_INFOPLIST_FILE: YES
+
+schemes:
+  TheProjectManual:
+    build:
+      targets:
+        TheProjectManual: all
+    test:
+      targets:
+        - TheProjectManualTests

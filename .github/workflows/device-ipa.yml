@@ -1,0 +1,78 @@
+name: Unsigned device IPA
+
+# Builds an UNSIGNED iOS device binary and packages it as an .ipa.
+#
+# Note: an unsigned .ipa cannot be installed by tapping it in Safari — iOS
+# requires some form of signing at install time. This artifact is intended
+# for tools that sign or containerize on installation (SideStore, AltStore,
+# LiveContainer, signing services) or for later re-signing.
+#
+# Outputs:
+#   - Workflow artifact "TheProjectManual-unsigned-ipa" on every run
+#   - Rolling prerelease "unsigned-latest" with a stable download URL,
+#     updated on every push to main
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  ipa:
+    name: Build and publish unsigned IPA
+    runs-on: macos-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+        working-directory: TheProjectManual
+
+      - name: Build unsigned device app
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -project TheProjectManual/TheProjectManual.xcodeproj \
+            -scheme TheProjectManual \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            build
+
+      - name: Package IPA
+        run: |
+          mkdir -p Payload
+          cp -R "build/Build/Products/Release-iphoneos/TheProjectManual.app" Payload/
+          zip -qry TheProjectManual-unsigned.ipa Payload
+          ls -la TheProjectManual-unsigned.ipa
+
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: TheProjectManual-unsigned-ipa
+          path: TheProjectManual-unsigned.ipa
+
+      - name: Update rolling release (main only)
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view unsigned-latest --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 || \
+            gh release create unsigned-latest \
+              --repo "$GITHUB_REPOSITORY" \
+              --prerelease \
+              --title "Latest unsigned device build" \
+              --notes "Rolling prerelease. The attached .ipa is unsigned and updated on every push to main."
+          gh release upload unsigned-latest TheProjectManual-unsigned.ipa \
+            --repo "$GITHUB_REPOSITORY" \
+            --clobber
